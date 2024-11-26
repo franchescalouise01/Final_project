@@ -289,8 +289,8 @@ section {
     resize: none;
 }
 .footer {
-    background: #574933; /* Dark background for footer */
-    color: #fff; /* Text color for better contrast */
+    background: #574933;
+    color: #fff; 
     padding: 2rem;
 }
 
@@ -313,7 +313,7 @@ section {
     color:#fff;
 }
 .footer .box a:hover {
-    color: #ff9800; /* Link hover effect */
+    color: #ff9800; 
     padding-left: 1rem;
 }
 
@@ -326,7 +326,7 @@ section {
 
 .footer .credit span {
     color:#fff;
-    border-bottom: 2px solid #f7f6f4; /* Adds a highlight effect */
+    border-bottom: 2px solid #f7f6f4; 
     padding-bottom: 0.2rem;
 }
 
