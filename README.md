@@ -1,4 +1,4 @@
-# Final_project  web-based coffee shop project 
+# Final_project  web-based coffee shop  
 Group_2
 Mendez, Franchesca Louise H
 Malto, Wendy V
