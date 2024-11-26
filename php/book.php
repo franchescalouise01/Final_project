@@ -3,7 +3,7 @@ $message = '';  // Initialize the message variable
 $type = '';     // Initialize the type variable
 $selectedItem = isset($_GET['item']) ? htmlspecialchars($_GET['item']) : ''; // Capture selected item
 
-// Check for the 'message' parameter in the URL
+
 if (isset($_GET['message'])) {
     if ($_GET['message'] == 'success') {
         $message = "Your booking order has been sent successfully!";
