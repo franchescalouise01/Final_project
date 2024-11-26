@@ -3,7 +3,7 @@ Group_2
 Mendez, Franchesca Louise H
 Malto, Wendy V
 
-![Screenshot 2024-11-26 000051](https://github.com/user-attachments/assets/94696692-b1fc-43ce-8311-8850c2e925c7)
+![Screenshot 2024-11-26 160905](https://github.com/user-attachments/assets/6520f209-6245-47c1-bbe1-6e517f9df2a2)
 ![Screenshot 2024-11-26 000119](https://github.com/user-attachments/assets/72743014-3bc4-4f29-b4ba-e57046347c30)
 ![Screenshot 2024-11-26 000127](https://github.com/user-attachments/assets/3697a2c3-6b9d-4f37-8032-0d3f674e76b8)
 ![Screenshot 2024-11-26 000139](https://github.com/user-attachments/assets/a4dc3152-a643-446b-b6ff-0d13913ee936)
