@@ -3,10 +3,10 @@ Group_2
 Mendez, Franchesca Louise H
 Malto, Wendy V
 
-![Screenshot 2024-11-26 160905](https://github.com/user-attachments/assets/6520f209-6245-47c1-bbe1-6e517f9df2a2)
-![Screenshot 2024-11-26 000119](https://github.com/user-attachments/assets/72743014-3bc4-4f29-b4ba-e57046347c30)
-![Screenshot 2024-11-26 000127](https://github.com/user-attachments/assets/3697a2c3-6b9d-4f37-8032-0d3f674e76b8)
-![Screenshot 2024-11-26 000139](https://github.com/user-attachments/assets/a4dc3152-a643-446b-b6ff-0d13913ee936)
-![Screenshot 2024-11-26 000146](https://github.com/user-attachments/assets/24368bc8-c0d0-4389-a7a9-f4149f06ad41)
-![Screenshot 2024-11-26 000204](https://github.com/user-attachments/assets/1c2b9cef-737c-49f1-9f54-4511973be30e)
-![Screenshot 2024-11-26 000219](https://github.com/user-attachments/assets/c674075b-4a48-46f9-ba4d-5a4166413a19)
+![Uploading Screenshot 2024-11-26 162051.png…]()
+![Screenshot 2024-11-26 162040](https://github.com/user-attachments/assets/c95be164-beca-4e69-8b3c-2bd8bbf7d66f)
+![Screenshot 2024-11-26 160948](https://github.com/user-attachments/assets/4f545d8e-6389-4a9e-82b6-cf4c62ac6a46)
+![Screenshot 2024-11-26 160935](https://github.com/user-attachments/assets/77e9b401-1b28-41d5-b59c-4fc9aee0312a)
+![Screenshot 2024-11-26 160926](https://github.com/user-attachments/assets/438d3a37-c5e8-456e-b87a-98856d9c12bc)
+![Screenshot 2024-11-26 160915](https://github.com/user-attachments/assets/97033044-e029-41e3-b6b0-6e4492233e15)
+![Screenshot 2024-11-26 160905](https://github.com/user-attachments/assets/b91eb160-0fb2-4e39-af61-02e0a602fdd9)
