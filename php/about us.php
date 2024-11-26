@@ -43,10 +43,7 @@
    <section class="profile" id="profile">
    <h1 class="heading-2">Our Team <span>Profile</span></h1>
 
-
-        <!-- Team Cards Container -->
         <div class="cards-container">
-            <!-- Franchesca's Card -->
             <div class="card">
                 <div class="card-image">
                     <img src="image/chi.jpg" alt="Franchesca">
@@ -67,8 +64,7 @@
                     </a>
                 </div>
             </div>
-        
-            <!-- Wendy's Card -->
+    
             <div class="card">
                 <div class="card-image">
                     <img src="image/wends.jpg" alt="Wendy">
