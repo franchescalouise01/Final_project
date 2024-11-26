@@ -126,24 +126,24 @@ section {
 .about {
     min-height: 110vh;
     display: flex;
-    flex-direction: column; /* Stack content vertically */
+    flex-direction: column; 
     justify-content: center;
     align-items: center;
-    gap: 2rem;  /* Space between the image and content */
+    gap: 2rem; 
 }
 
 .about .content {
     width: 100%;
-    text-align: center;  /* Ensure content is centered */
+    text-align: center; 
     font-size: 1.7rem;
 }
 
 .cards-container {
     display: flex;
-    justify-content: center; /* Center cards horizontally */
-    align-items: flex-start; /* Align cards to the top */
-    flex-wrap: wrap; /* Wrap cards if they exceed container width */
-    gap: 20px; /* Add spacing between cards */
+    justify-content: center; 
+    align-items: flex-start;
+    flex-wrap: wrap; 
+    gap: 20px; 
     margin-top: 2rem; 
     padding: 2rem;
 }
